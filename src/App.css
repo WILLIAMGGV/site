@@ -1,0 +1,975 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.principal-fondo{
+
+  position: relative;
+
+}
+
+.principal-contenido {
+  position: absolute;
+  width: 50%;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-top: 60px;
+  margin-left: 120px;
+
+}
+
+
+
+.principal-fondo-4{
+
+  position: relative;
+
+}
+
+.principal-contenido-4 {
+  position: absolute;
+  width: 80%;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-top: 60px;
+  margin-left: 120px;
+
+}
+
+.principal-fondo-mo{
+
+  position: relative;
+
+}
+
+.principal-contenido-mo {
+  position: absolute;
+  width: 70%;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-top: 60px;
+  margin-left: 70px;
+
+}
+
+.principal-contenido-mo-2 {
+  position: absolute;
+  width: 90%;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-top: 0px;
+  margin-left: 20px;
+
+}
+
+
+.pagina2-fondo{
+    top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: relative;
+
+}
+
+.principal-contenido2 {
+  position: absolute;
+  width: 50%;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-top: 180px;
+  margin-left: 50%;
+
+}
+
+.principal-contenido2-tablet {
+  position: absolute;
+  width: 50%;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-top: 100px;
+  margin-left: 50%;
+
+}
+
+.principal-contenido2-movil {
+  
+  background-color: #CDFCEC;
+  
+}
+
+.texto-principal{
+
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 30px;
+  color: #00837D;
+
+}
+
+.texto-principal2{
+
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 32px;
+  color: #00837D;
+  font-weight: bold;
+
+}
+
+
+
+
+
+.texto-principal3{
+
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 22px;
+  color: #00837D;
+
+
+}
+.texto-principal33{
+
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 22px;
+  color: #00837D;
+
+
+}
+
+
+.texto-principal4{
+
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 18px;
+  color: #00837D;
+
+
+}
+
+.texto-principal2-tablet{
+
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 26px;
+  color: #00837D;
+  font-weight: bold;
+
+}
+
+.texto-principal2-movil{
+
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 26px;
+  color: #00837D;
+  font-weight: bold;
+
+
+}
+
+.parrafo-principal2{
+  padding-top: 40px;
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 22px;
+  color: #00837D;
+
+}
+
+.parrafo-principal2-tablet{
+  padding-top: 40px;
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 18px;
+  color: #00837D;
+
+}
+
+.parrafo-principal2-movil{
+  padding-top: 40px;
+  align-items: center;
+  font-family: 'Zen Maru Gothic';
+  font-size: 18px;
+  color: #00837D;
+  width: 80%;
+}
+
+.logo-h-mobile{
+
+  align-content: center;
+  align-items: center;
+}
+.boton-p{
+
+margin-top: 50px;
+margin-left: 20%;
+
+
+}
+.boton-e{
+
+  margin-top: 20px;
+  
+  }
+
+.boton-p2{
+
+  margin-top: 40px;
+  margin-left: 15%;
+  
+  
+  }
+
+
+  .boton-p-mobile{
+
+    margin-top: 40px;
+    align-items: center;
+    font-family: 'Zen Maru Gothic';
+    font-size: 20px;
+    color: #00837D;
+  
+    }
+
+.texto-principal-mobile{
+
+font-size: 20px;
+margin-top: 20px;
+color: #00837D;
+    
+  }
+
+
+  .servicios-title{
+
+
+    font-size: 32px;
+    font-family: 'Zen Maru Gothic';
+    margin-top: 20px;
+    margin-left: 134.87px;
+    color: #00837D;
+    font-weight: bold;
+        
+      }
+
+      .servicios-title2{
+
+
+        font-size: 32px;
+        font-family: 'Zen Maru Gothic';
+        margin-top: 20px;
+        margin-left: 20.87px;
+        color: #00837D;
+        font-weight: bold;
+            
+          }
+
+          .servicios-title22{
+
+
+            font-size: 32px;
+            font-family: 'Zen Maru Gothic';
+            text-align: left;
+            margin-left: 20.87px;
+            color: #00837D;
+            font-weight: bold;
+                
+              }
+
+          .saludo{
+
+            font-size: 42px;
+            font-family: 'Comforter Brush';
+            text-align: center;
+            margin-left: 20.87px;
+            color: #00837D;
+         
+                
+              }
+
+              .saludo2{
+
+                font-size: 42px;
+                font-family: 'Comforter Brush';
+                text-align: center;
+                margin-left: 20.87px;
+                color: #00837D;
+             
+                    
+                  }
+
+      .servicios-title-mobile{
+
+
+        font-size: 32px;
+        font-family: 'Zen Maru Gothic';
+        margin-top: 20px;
+
+        color: #00837D;
+        font-weight: bold;
+            
+          }
+
+          .servicios-title-mobile-2{
+
+
+            font-size: 32px;
+            font-family: 'Zen Maru Gothic';
+            margin-top: 20px;
+    
+            color: #00837D;
+            font-weight: bold;
+                
+              }
+
+          .titulo-arriba-mobile{
+
+
+            font-size: 20px;
+            font-family: 'Zen Maru Gothic';
+            font-weight: bold;
+            color: #00837D;
+            margin-top: 5%;
+            margin-bottom: 5%;
+    
+                
+              }
+
+      .titulo-arriba{
+
+
+        font-size: 28px;
+        font-family: 'Zen Maru Gothic';
+        font-weight: bold;
+        color: #00837D;
+        margin-top: 5%;
+        margin-bottom: 5%;
+
+            
+          }
+
+          .titulo-abajo-mobile{
+
+
+            font-size: 18px;
+            font-family: 'Zen Maru Gothic';
+     
+            color: #00837D;
+            margin-top: 5%;
+    
+                
+              }
+
+          .titulo-abajo{
+
+
+            font-size: 24px;
+            font-family: 'Zen Maru Gothic';
+     
+            color: #00837D;
+            margin-top: 5%;
+    
+                
+              }
+
+  .slider-container{
+    width: 80%;
+  }
+  .imagenpe{
+
+    margin-top: 20%;
+    
+  }
+
+ 
+
+  .div-testimonio-principal{
+  margin-top: 120px;
+  background-color: #F3FEFA;
+  }
+      .principal-contenido-mobile{
+
+        margin-top: 30px;
+        align-content: center;
+      
+        }
+
+
+        .estilo-input{
+          margin-top: 20px;
+          color: #5A7674;
+          font-size: 22px;
+            font-family: 'Zen Maru Gothic';
+            box-shadow: 2px 2px 14px 0px #33888199;
+            height: 42px;
+            width: 100%;
+            border: 0.5px solid #00837D;
+            border-radius: 18px;
+            text-align: left;
+            padding-left: 20px;
+
+        }
+
+        .estilo-input-p{
+          margin-top: 10px;
+          color: #5A7674;
+          font-size: 18px;
+            font-family: 'Zen Maru Gothic';
+            box-shadow: 2px 2px 14px 0px #33888199;
+            height: 32px;
+            width: 100%;
+            border: 0.5px solid #00837D;
+            border-radius: 18px;
+            text-align: left;
+            padding-left: 20px;
+
+        }
+
+
+        .estilo-area{
+          margin-top: 20px;
+          color: #5A7674;
+          font-size: 22px;
+            font-family: 'Zen Maru Gothic';
+            box-shadow: 2px 2px 14px 0px #33888199;
+            height: 222px;
+            width: 100%;
+            border: 0.5px solid #00837D;
+            border-radius: 18px;
+            text-align: left;
+            padding-left: 20px;
+            padding-top: 20px;
+
+        }
+
+        .estilo-area-p{
+          margin-top: 20px;
+          color: #5A7674;
+          font-size: 18px;
+            font-family: 'Zen Maru Gothic';
+            box-shadow: 2px 2px 14px 0px #33888199;
+            height: 150px;
+            width: 100%;
+            border: 0.5px solid #00837D;
+            border-radius: 18px;
+            text-align: left;
+            padding-left: 20px;
+            padding-top: 5px;
+
+        }
+
+.boton-principal{
+  background-color: #00837D;
+  border: 1px;
+  border-radius: 64px;
+  width: 163px;
+  height: 48px;
+  color: #F1F5F5;
+  font-weight: bold;
+}
+
+.boton-enviar{
+  background-color: #00625E;
+  border: 1px;
+  border-radius: 64px;
+  width: 137px;
+  height: 48px;
+  color: #F1F5F5;
+  font-weight: bold;
+}
+
+.boton-enviar-p{
+  background-color: #00625E;
+  border: 1px;
+  border-radius: 64px;
+  width: 137px;
+  height: 26px;
+  color: #F1F5F5;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+
+.boton-principal:hover{
+  background-color: #00E2D7;
+  cursor: pointer;
+}
+.boton-enviar:hover{
+  background-color: #00E2D7;
+  cursor: pointer;
+}
+.boton-enviar-p:hover{
+  background-color: #00E2D7;
+  cursor: pointer;
+}
+
+
+.titulo-formulario{
+  font-size: 28px;
+        font-family: 'Zen Maru Gothic';
+        font-weight: bold;
+        color: #00837D;
+}
+
+.titulo-formulario-p{
+  font-size: 22px;
+        font-family: 'Zen Maru Gothic';
+        font-weight: bold;
+        color: #00837D;
+}
+
+
+
+.footer-tabla{
+
+margin-top: 80px;
+background-color: #00837D;
+height: 106px;
+padding: 0;
+align-items: center;
+justify-items: center;
+font-family: 'Zen Maru Gothic';
+
+}
+
+.footer-tabla2{
+
+  margin-top: 80px;
+  background-color: #00837D;
+  height: 126px;
+  padding: 0;
+  align-items: center;
+  justify-items: center;
+  font-family: 'Zen Maru Gothic';
+  
+  }
+
+  .footer-tabla3{
+
+    margin-top: 80px;
+    background-color: #00837D;
+    height: 166px;
+    padding: 0;
+    align-items: center;
+    justify-items: center;
+    font-family: 'Zen Maru Gothic';
+    
+    }
+
+.tablaf{
+
+  font-size: 18px;
+  font-family: 'Zen Maru Gothic';
+  color: #FFFFFF;
+  
+  }
+
+  .footer-copy{
+
+    margin-left: 20px;
+    font-size: 18px;
+    }
+
+    .footer-contact{
+
+      margin-left: 40px;
+      
+      }
+
+      .design{
+
+    
+        margin-right: 20px;
+        font-size: 18px;
+        
+        }
+
+        .design-mobile{
+
+    
+          margin-right: 10px;
+          font-size: 14px;
+          padding: 0;
+          
+          }
+
+      
+        .developer{
+
+          font-size: 18px;
+          margin-right: 20px;
+          }
+
+          .developer-mobile{
+
+    
+            margin-right: 10px;
+            font-size: 14px;
+            padding: 0;
+            
+            }
+
+          .titulof{
+
+            margin-left: 20px;
+     
+            }
+
+            .titulof2{
+              font-size: 16px;
+              margin-left: 20px;
+       
+              }
+
+              .titulof3{
+                font-size: 14px;
+                margin-left: 10px;
+         
+                }
+
+
+            .contenido-contacto{
+
+              margin-left: 60px;
+              font-size: 16px;
+
+              }
+
+              .contenido-contacto-mobile{
+
+                margin-left: 20px;
+                font-size: 14px;
+  
+                }
+
+              .footer-copy2{
+                color: white;
+                margin-left: 20px;
+                font-size: 16px;
+                }
+                .footer-copy3{
+                  color: white;
+                 
+                  font-size: 14px;
+                  }
+
+                  .link1:hover{
+                    cursor:pointer;
+                    font-weight: bold;
+                    }
+                    .link1w:hover{
+                      cursor:pointer;
+                      font-weight: bold;
+
+                      }
+                      .link1w{
+                      margin-left: 40px;
+                      }
+
+                      .linkc1{
+                        font-size: 22px;
+                        color: #00625E;
+                        font-family: 'Zen Maru Gothic';
+                      }
+                      .linkc1:hover{
+                        cursor:pointer;
+                        font-weight: bold;
+                        }
+
+                        .linkcp1{
+                          font-size: 18px;
+                          color: #00625E;
+                          font-family: 'Zen Maru Gothic';
+                        }
+                        .linkcp1:hover{
+                          cursor:pointer;
+                          font-weight: bold;
+                          }
+                        .linkc1w:hover{
+                          cursor:pointer;
+                          font-weight: bold;
+    
+                          }
+                         
+
+                      .link2:hover{
+                        cursor:pointer;
+                        font-weight: bold;
+                        }
+                        .link2{
+                          margin-left: 60px;
+                          font-size: 16px;
+                          }
+
+                          .link2w:hover{
+                            cursor:pointer;
+                            font-weight: bold;
+                            }
+                            .link2w{
+                              margin-left: 60px;
+                              font-size: 16px;
+                              }
+                              .link3w:hover{
+                                cursor:pointer;
+                                font-weight: bold;
+                                }
+                                .link3w{
+                                  margin-left: 20px;
+                                  font-size: 16px;
+                                  }
+
+
+
+                                  button{
+                                    border-color: #CDFCEC;
+                                    border-bottom-left-radius: 0%;
+                                    font-size: inherit;
+                                
+                                    background-color: transparent;
+                                    display: block;
+                                  
+                                
+                                  }
+                                
+                                  
+                                a {
+                                    display: block;
+                                    text-decoration: none;
+                                    color: inherit;
+                                    font-size: inherit;
+                                  }
+                                
+                                  a:hover{
+                                  
+                                    font-weight: bold;
+                                    line-height: 29px;
+                                  }
+                                
+                                  p a {
+                                    display: inline;
+                                  }
+                                  
+                                  li {
+                                    list-style-type: none;
+                                  }
+                                
+                                  .desktop{
+                                 
+                                    margin-bottom: -5px;
+                                    
+                                }
+                                
+                                .tablet{
+                                 
+                                    margin-bottom: -5px;
+                                    
+                                }
+                                
+                                .movil{
+                                 
+                                    margin-bottom: -5px;
+                                    
+                                }
+                                
+                                .Cabecera{
+                                    width:100%;
+                                    background-color: #CDFCEC;
+                                  
+                                
+                                    display: flex;
+                                    flex-flow: row wrap;
+                                    justify-content: space-between;
+                                    align-items: center;
+                                
+                                  font-family: 'Zen Maru Gothic';
+                                  border-bottom-left-radius: 20px;
+                                  border-bottom-right-radius: 20px;
+                                  box-shadow: 0px 1px 21px 1px #00837D66;
+                                
+                                
+                                
+                                }
+                                
+                                .App-logo{
+                                    margin-top: 5px;
+                                    margin-bottom: 5px;
+                                    width: 160px;
+                                    height: 72px;
+                                    margin-left: 134px;
+                                  }
+                                
+                                  .App-logo2{
+                                
+                                    width: 100%;
+                                    height: 100%;
+                                    margin-left: 14px;
+                                  }
+                                
+                                
+                                
+                                
+                                
+                                .Cabecera-a:hover{
+                                  
+                                    font-weight: bold;
+                                    line-height: 29px;
+                                  }
+                                
+                                
+                                
+                                .Cabecera-button{
+                                    display:none;
+                                    cursor: pointer;
+                                }
+                                .Cabecera-svg{
+                                    width:2em;
+                                    height:2em;
+                                    fill:#00837D;
+                                }
+                                .Cabecera-nav{
+                                  color: #00625E;
+                                  font-size: 22px;
+                                }
+                                .Cabecera-ul{
+                                    display: flex;
+                                    flex-flow: row nowrap;
+                                    justify-content: flex-end;
+                                    align-items: center;
+                                    margin-right: 100px;
+                                }
+                                .Cabecera-li{
+                                    margin: 0 .5em;
+                                }
+                                @media screen and (max-width:480px){
+                                
+                                    .Cabecera {
+                                        padding:1em;
+                                    }
+                                    .Cabecera-button{
+                                        display: flex;
+                                        margin-right: 30px;
+                                    }
+                                
+                                    .Cabecera-nav{
+                                        width:100%;
+                                
+                                        display: flex;
+                                        flex-flow: column nowrap;
+                                        justify-content: center;
+                                        align-items: center;
+                                        height:0vh;
+                                        opacity: 0;
+                                        overflow: hidden;
+                                        transition: all .5s ease;
+                                    }
+                                    .Cabecera-nav.isActive{
+                                        height:50vh;
+                                        opacity: 1;
+                                    }
+                                    .Cabecera-ul{
+                                        flex-direction: column;
+                                    }
+                                    .Cabecera-li{
+                                        margin: .5em 0;
+                                    }
+                                    .Cabecera-a:hover{
+                                  
+                                        font-weight: bold;
+                                        line-height: 29px;
+                                      }
+                                }
+                                
+                                
+                                
+                                @media screen and (max-width:940px){
+                                
+                                    .Cabecera {
+                                        padding:1em;
+                                    }
+                                    .Cabecera-button{
+                                        display: flex;
+                                        margin-right: 30px;
+                                    }
+                                    .Cabecera-nav{
+                                        width:100%;
+                                
+                                        display: flex;
+                                        flex-flow: column nowrap;
+                                        justify-content: center;
+                                        align-items: center;
+                                        height:0vh;
+                                        opacity: 0;
+                                        overflow: hidden;
+                                        transition: all .5s ease;
+                                    }
+                                    .Cabecera-nav.isActive{
+                                        height:50vh;
+                                        opacity: 1;
+                                    }
+                                    .Cabecera-ul{
+                                        flex-direction: column;
+                                    }
+                                    .Cabecera-li{
+                                        margin: .5em 0;
+                                    }
+                                }
+                                
+                                
+                                /**Movil**/
+                                
+                                @media (max-width: 480px) {
+                                    .desktop {
+                                        display: none;
+                                    }
+                                    .tablet {
+                                        display: none;
+                                    }
+                                  }
+                                  
+                                  
+                                  /**Tablet**/
+                                  
+                                  @media (min-width: 481px) and (max-width: 940px) {
+                                    .desktop {
+                                        display: none;
+                                    }
+                                    .movil {
+                                        display: none;
+                                    }
+                                  }
+                                  
+                                  
+                                  /**Escritorio**/
+                                  
+                                  @media (min-width: 941px) {
+                                    .tablet {
+                                        display: none;
+                                    }
+                                    .movil {
+                                        display: none;
+                                    }
+                                  }
+                                
+                                
+                                
+                                

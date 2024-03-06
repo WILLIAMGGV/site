@@ -1,0 +1,234 @@
+button{
+    border-color: #CDFCEC;
+    border-bottom-left-radius: 0%;
+    font-size: inherit;
+
+    background-color: transparent;
+    display: block;
+  
+
+  }
+
+  
+a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+  }
+
+  a:hover{
+  
+    font-weight: bold;
+    line-height: 29px;
+  }
+
+  p a {
+    display: inline;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+
+  .desktop{
+ 
+    margin-bottom: -5px;
+    
+}
+
+.tablet{
+ 
+    margin-bottom: -5px;
+    
+}
+
+.movil{
+ 
+    margin-bottom: -5px;
+    
+}
+
+.Cabecera{
+    width:100%;
+    background-color: #CDFCEC;
+  
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+
+  font-family: 'Zen Maru Gothic';
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  box-shadow: 0px 1px 21px 1px #00837D66;
+
+
+
+}
+
+.App-logo{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 160px;
+    height: 72px;
+    margin-left: 134px;
+  }
+
+  .App-logo2{
+
+    width: 100%;
+    height: 100%;
+    margin-left: 14px;
+  }
+
+
+
+
+
+.Cabecera-a:hover{
+  
+    font-weight: bold;
+    line-height: 29px;
+  }
+
+
+
+.Cabecera-button{
+    display:none;
+    cursor: pointer;
+}
+.Cabecera-svg{
+    width:2em;
+    height:2em;
+    fill:#00837D;
+}
+.Cabecera-nav{
+  color: #00625E;
+  font-size: 22px;
+}
+.Cabecera-ul{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 100px;
+}
+.Cabecera-li{
+    margin: 0 .5em;
+}
+@media screen and (max-width:480px){
+
+    .Cabecera {
+        padding:1em;
+    }
+    .Cabecera-button{
+        display: flex;
+        margin-right: 30px;
+    }
+
+    .Cabecera-nav{
+        width:100%;
+
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        height:0vh;
+        opacity: 0;
+        overflow: hidden;
+        transition: all .5s ease;
+    }
+    .Cabecera-nav.isActive{
+        height:50vh;
+        opacity: 1;
+    }
+    .Cabecera-ul{
+        flex-direction: column;
+    }
+    .Cabecera-li{
+        margin: .5em 0;
+    }
+    .Cabecera-a:hover{
+  
+        font-weight: bold;
+        line-height: 29px;
+      }
+}
+
+
+
+@media screen and (max-width:940px){
+
+    .Cabecera {
+        padding:1em;
+    }
+    .Cabecera-button{
+        display: flex;
+        margin-right: 30px;
+    }
+    .Cabecera-nav{
+        width:100%;
+
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        height:0vh;
+        opacity: 0;
+        overflow: hidden;
+        transition: all .5s ease;
+    }
+    .Cabecera-nav.isActive{
+        height:50vh;
+        opacity: 1;
+    }
+    .Cabecera-ul{
+        flex-direction: column;
+    }
+    .Cabecera-li{
+        margin: .5em 0;
+    }
+}
+
+
+/**Movil**/
+
+@media (max-width: 480px) {
+    .desktop {
+        display: none;
+    }
+    .tablet {
+        display: none;
+    }
+  }
+  
+  
+  /**Tablet**/
+  
+  @media (min-width: 481px) and (max-width: 940px) {
+    .desktop {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+  }
+  
+  
+  /**Escritorio**/
+  
+  @media (min-width: 941px) {
+    .tablet {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+  }
+
+
+
+
+
